@@ -1,0 +1,1 @@
+export const IS_DEVELOPMENT = process.env.NODE_ENV!='production'; //ya en produccion ya no se mostraria el foooter
